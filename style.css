@@ -58,15 +58,15 @@ header nav ul li a:hover {
 
 }
 
-/*.index-banner:hover {
-  background-image: url("img/IMG_1132.jpg");
-}*/
+.index-banner:hover {
+  background-image: url("img/IMG_1132.JPG");
+}
 
 .index-banner h2 {
   font-size: 1.3vw;
   color: #848181;
   line-height: 1.3vw;
-  text-align: center;
+  padding: 10vh 10vw;
 }
 
 .index-banner h1 {
@@ -74,7 +74,7 @@ header nav ul li a:hover {
   font-family: Helvetica;
   font-style: italic;
   color: #848181;
-  padding: 13vh 15vw;
+  padding: 13vh 20vw;
 }
 
 .info1 {
