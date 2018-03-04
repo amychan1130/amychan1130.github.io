@@ -90,16 +90,16 @@ header nav ul li a:hover {
   margin-left: 0px;
   width: 100%;
   font-weight: 300%;
-  font-size: 18px;
+  font-size: 20px;
   color: black;
-  line-height: 18px;
+  line-height: 20px;
 }
 
 .info1 p {
   width: 100%;
-  font-size: 12px;
+  font-size: 15px;
   color: grey;
-  line-height: 12px;
+  line-height: 15px;
 }
 
 .info2 {
@@ -115,16 +115,16 @@ header nav ul li a:hover {
   margin-left: 0px;
   width: 100%;
   font-weight: 300%;
-  font-size: 18px;
+  font-size: 20px;
   color: black;
-  line-height: 18px;
+  line-height: 20px;
 }
 
 .info2 p {
   width: 100%;
-  font-size: 12px;
+  font-size: 15px;
   color: grey;
-  line-height: 12px;
+  line-height: 15px;
 }
 
 .photos {
