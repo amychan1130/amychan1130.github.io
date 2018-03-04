@@ -1,0 +1,75 @@
+* {
+  width = 100%;
+  margin :0;
+  padding: 0;
+  line-height: 50px
+}
+
+body {
+  background-color: #eee;
+}
+
+.wrapper {
+  margin: 0 auto 0 60px;
+  width : 100%;
+}
+
+.img_venus {
+  width : 200px;
+  height: 300px;
+  background-image: url(img/IMG_2444.jpg);
+  background-size: cover;
+  float: left;
+}
+
+.img_venus:hover{
+  background-image: url(img/IMG_2446.jpg);
+}
+
+.img-info {
+  width: 65%;
+  float: right;
+}
+
+.img-info h2 {
+  padding: 0px 30px 20px 0px;
+  font-size: 30px;
+  color: rgb(128, 0, 0);
+  line-height: 44px;
+  width: 65%;
+}
+
+.img-info p {
+  padding: 0px 30px 0px 0px;
+  font-family: cursive;
+  font-size: 15px;
+  color: #111;
+  line-height: 18px;
+  width: 65%;
+}
+
+nav {
+  width: 100%;
+  height: 50px;
+  background-color: #fff;
+}
+ul {
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+ul li a {
+  display :block;
+  text-decoration : none;
+  font-size: 10px;
+  font-family: arial;
+  color:  #1e1e1e;
+  padding: 0 10px;
+}
+
+ul li a:hover {
+  color: pink;
+}
