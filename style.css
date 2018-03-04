@@ -74,7 +74,8 @@ header nav ul li a:hover {
   font-family: Helvetica;
   font-style: italic;
   color: #848181;
-  padding: 15vh 15vw;
+  padding-top: 10px;
+  text-align: center;
 }
 
 .info1 {
